@@ -23,6 +23,9 @@ The purpose of this code is to check a range of ports on a host and report which
 ./port_checker 127.0.0.1 80 443 8080 8081
 ```
 
+## RESULT example :
+![Screenshot 2024-01-12 131255](https://github.com/Ali-Nikaein/Port_status_checker/assets/108432369/f417749a-28d9-4bbc-b147-31b85f9be23d)
+
 ## Dependencies
 - Windows Socket API (winsock2.h)
 - Standard Input/Output functions (stdio.h)
