@@ -7,7 +7,7 @@ The purpose of this code is to check a range of ports on a host and report which
 ## How to Use
 1. Clone the repository to your local machine.
    ```bash
-   [git clone <repository-url>](https://github.com/Ali-Nikaein/Port_status_checker.git)
+   git clone https://github.com/Ali-Nikaein/Port_status_checker.git
    ```
 2. Compile the code :
    ```bash
