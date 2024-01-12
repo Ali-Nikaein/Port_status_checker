@@ -36,4 +36,4 @@ The code initializes the Winsock library, creates a socket for each specified po
 The code includes basic error handling, such as checking if the correct number of command-line arguments is provided and handling socket creation failures.
 
 ## Disclaimer
-This tool is intended for educational and testing purposes only. Unauthorized port scanning of systems without permission is illegal and unethical. Ensure you have the appropriate authorization before using this tool on any network. The developers are not responsible for any misuse or consequences arising from the use of this tool.
+This tool is intended for educational and testing purposes only. Unauthorized port scanning of systems without permission is illegal and unethical. Ensure you have the appropriate authorization before using this tool on any network. The developer is not responsible for any misuse or consequences arising from the use of this tool.
